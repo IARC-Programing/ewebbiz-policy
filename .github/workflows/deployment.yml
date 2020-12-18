@@ -6,7 +6,7 @@ name: EOnlineHelpCenterDeployment
 on:
   push:
     branches:
-      - main
+      - master
   label:
     types: [created, deleted]
 
